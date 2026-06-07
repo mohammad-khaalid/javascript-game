@@ -19,7 +19,11 @@ Open the `index.html` file in your favorite web browser to start playing.
 
 Score: 12      Time: 18s
 
-<img width="705" height="610" alt="Screenshot 2026-06-07 at 5 37 06 PM" src="https://github.com/user-attachments/assets/4e09813d-d732-48df-b0fa-a433785377ce" />
+<img
+ width="705"
+ height="610"
+ alt="Screenshot 2026-06-07 at 5 37 06 PM"
+ src="https://github.com/user-attachments/assets/4e09813d-d732-48df-b0fa-a433785377ce" />
 
 ```
 
